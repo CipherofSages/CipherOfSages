@@ -1,6 +1,7 @@
 #    The Cipher Of Sages
 | Bible Codes | Atbash | Gematria | ESL | Ciphers | Cryptography
 --
+Welcome to the Cipher of Sages Repository
 
 - 🔭 I’m currently working on a python project called Poetic Cipher. 
 - 🌱 I’m currently learning Computer Science and Project Management.
