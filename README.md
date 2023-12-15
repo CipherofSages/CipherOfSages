@@ -1,6 +1,5 @@
-### Hi there 👋 Welcome to the Cipher Of Sages GitHub Page  
-
-**CipherofSages/CipherOfSages** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#    The Cipher Of Sages
+| Bible Codes | Atbash | Gematria | ESL | Ciphers | Cryptography
 --
 
 - 🔭 I’m currently working on a python project called Poetic Cipher. 
