@@ -1,6 +1,5 @@
 <h1>The Cipher of Sages - החכמים צופן </h1>
 
---
 | Bible Codes | Atbash | Gematria | ESL | Ciphers | Cryptography
 --
 
@@ -12,5 +11,4 @@ Welcome to the Cipher of Sages Repository
 - 🤔 I’m looking for help with python language translation models
 - 💬 Ask me about the projects I am currently working on and perhaps you can contribute to them.
 - 📫 How to reach me: E-mail -> CipherofSages@gmail.com
-- ⚡ Fun fact: I like Torah and Cats.
---
+- ⚡ Fun fact: I like Torah and Cats
