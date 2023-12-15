@@ -1,4 +1,5 @@
-#    The Cipher Of Sages
+<h1>The Cipher of Sages - החכמים צופן </h1>
+--
 | Bible Codes | Atbash | Gematria | ESL | Ciphers | Cryptography
 --
 Welcome to the Cipher of Sages Repository
